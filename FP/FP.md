@@ -6,4 +6,4 @@ For the final project, I tried recreating [Casey Reas' piece, A Mathematical The
 ![](reas-rendering_01_compressed.jpeg)
 
 ###Recreation
-![](outputImages/out_9.png)
+![](outputImages/out_8.png)
